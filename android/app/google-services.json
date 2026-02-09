@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77054660328",
+    "project_id": "hearus-app",
+    "storage_bucket": "hearus-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77054660328:android:82c661cba66c93de82835d",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiCfTFu-Lvjc8qBtebiOPEncUNACc5PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
