@@ -339,9 +339,9 @@ class _SignupPageState extends State<SignupPage> {
                       } on FirebaseAuthException catch (e) {
                         String msg = "Signup failed";
 
-                        if (e.code == 'email-already-in-use')
+                        if (e.code == 'email-already-in-use') {
                           msg = "Email already registered";
-                        else if (e.code == 'invalid-email')
+                        } else if (e.code == 'invalid-email')
                           msg = "Invalid email format";
                         else if (e.code == 'weak-password')
                           msg = "Password too weak (min 6 chars)";
@@ -392,7 +392,7 @@ class _SignupPageState extends State<SignupPage> {
       padding: const EdgeInsets.only(bottom: 14),
       child: DropdownButtonFormField<String>(
         dropdownColor: bgBlack,
-        value: gender,
+        initialValue: gender,
         style: const TextStyle(color: textWhite),
         items: const [
           DropdownMenuItem(value: "Male", child: Text("Male")),

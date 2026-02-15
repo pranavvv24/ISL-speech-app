@@ -3,7 +3,6 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
-<<<<<<< HEAD
   cloud_firestore
   firebase_auth
   firebase_core
@@ -11,8 +10,6 @@ list(APPEND FLUTTER_PLUGIN_LIST
   geolocator_windows
   permission_handler_windows
   speech_to_text_windows
-=======
->>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
