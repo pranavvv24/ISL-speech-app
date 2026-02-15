@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "frontend",
     "short_name": "frontend",
+=======
+    "name": "speech_to_text",
+    "short_name": "speech_to_text",
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

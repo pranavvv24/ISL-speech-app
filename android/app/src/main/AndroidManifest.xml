@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<<<<<<< HEAD
 <!-- Location -->
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 
@@ -11,6 +12,10 @@
 <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:label="frontend"
+=======
+    <application
+        android:label="speech_to_text"
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -3,11 +3,18 @@ plugins {
     id("kotlin-android")
     // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id("dev.flutter.flutter-gradle-plugin")
+<<<<<<< HEAD
     id("com.google.gms.google-services")
 }
 
 android {
     namespace = "com.example.frontend"
+=======
+}
+
+android {
+    namespace = "com.example.speech_to_text"
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -22,7 +29,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.frontend"
+=======
+        applicationId = "com.example.speech_to_text"
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

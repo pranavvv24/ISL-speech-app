@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "frontend.app"
+=======
+               BuildableName = "speech_to_text.app"
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "frontend.app"
+=======
+            BuildableName = "speech_to_text.app"
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "frontend.app"
+=======
+            BuildableName = "speech_to_text.app"
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +95,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "frontend.app"
+=======
+            BuildableName = "speech_to_text.app"
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

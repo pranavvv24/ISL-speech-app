@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # frontend
+=======
+# speech_to_text
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
 
 A new Flutter project.
 

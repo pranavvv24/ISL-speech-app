@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: frontend
+=======
+name: speech_to_text_app
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -30,6 +34,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+<<<<<<< HEAD
   http: ^1.2.0
 
   # The following adds the Cupertino Icons font to your application.
@@ -48,6 +53,12 @@ dependencies:
   flutter_tts: ^4.0.2
   translator: ^1.0.0
   flutter_launcher_icons: ^0.13.1
+=======
+  speech_to_text: ^6.6.0
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
 
 dev_dependencies:
   flutter_test:
@@ -101,7 +112,10 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+<<<<<<< HEAD
 flutter_launcher_icons:
   android: true
   ios: true
   image_path: "assets/app_icon.png"
+=======
+>>>>>>> 6fdf37cfce197fd652145a6bbcf76c9daf94dd3d
